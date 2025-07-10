@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* margin-left: 50%; */
+   
+}
+
+.main{
+    margin-left: 50%;
+}
+.all{
+    background-color: #000000;
+    height: 355px;
+    width: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+    padding: 1px;
+}
+
+.new{
+    background-color: black;
+    height: 300px;
+    width: 30px;
+    margin-left: 55px;
+}
+.one{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.two{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.three{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.me{
+    background-color: black;
+    height: 30px;
+    width: 120px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.my-button{
+    height: 103px;
+    width: 103px;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-left: -1px;
+    margin-top: -1px;;
+}
+
+#first{
+    background-color: red;
+}
+
+#second{
+    background-color: yellow;
+}
+
+#third{
+    background-color: green;
+}
